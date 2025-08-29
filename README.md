@@ -5,7 +5,7 @@ To measure the water level in my dehumidifier’s tank without walking over to c
 
 <img src="https://github.com/gtmans/movingliquidsensor/blob/main/fritzing.png" width="300" align="right" />
 
-<BR><BR><BR><BR><BR><BR><BR><BR>To solve these issues, I switched to a 28BYJ-48 stepper motor controlled with a ULN2003 driver. For processing and display, I used an M5 Atom Lite and an SSD1306 OLED screen. This setup worked well but was rather bulky. My next goal is to create a more compact version with a smaller stepper motor, processor, display, and driver.
+<BR><BR><BR><BR><BR><BR><BR><BR>To solve these issues, I switched to a 28BYJ-48 stepper motor controlled with a ULN2003 driver. For processing and display, I used an M5 Atom Lite and an SSD1306 OLED screen. This setup works well but is rather bulky. My next goal is to create a more compact version with a smaller stepper motor, processor, display, and driver.
 <BR><BR>
 parts:
 - 28BYJ-48 steppenmotor with ULN2003 driver
@@ -15,5 +15,5 @@ parts:
 - watersensor (DFrobot Gravity 5V contacless liquidlevel sensor or DFrobot 3-5v flexible capacative sensor)
 - 3D printer parts
   <BR><BR>
-I already have a working prototype using a 15mm stepper motor, ESP32-C3 with integrated OLED, and a DRV8833 motor driver. More details on this compact version will be shared soon.
+I already have a working prototype using a 15mm stepper motor, ESP32-C3 with integrated OLED, and a DRV8833 motor driver. More details on this compact version will be shared later.
 <img src="https://github.com/gtmans/movingliquidsensor/blob/main/mini-version.png" width="300" align="left" />
