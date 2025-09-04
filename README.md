@@ -16,7 +16,7 @@ parts:
 - 3D printer parts
   <BR><BR>
   video:
-https://youtube.com/shorts/LEsJk2PyvBg?feature=share
+https://youtube.com/shorts/d_gbJdMp8hM?feature=share
   <BR><BR>
 
 
