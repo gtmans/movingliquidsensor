@@ -17,3 +17,5 @@ parts:
   <BR><BR>
 I already have a working prototype using a 15mm stepper motor, ESP32-C3 with integrated OLED, and a DRV8833 motor driver. More details on this compact version will be shared later.
 <img src="https://github.com/gtmans/movingliquidsensor/blob/main/mini-version.png" width="300" align="left" />
+
+small video: https://youtube.com/shorts/d_gbJdMp8hM?feature=share
