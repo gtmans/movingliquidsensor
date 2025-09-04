@@ -15,8 +15,14 @@ parts:
 - watersensor (DFrobot Gravity 5V contacless liquidlevel sensor or DFrobot 3-5v flexible capacative sensor)
 - 3D printer parts
   <BR><BR>
-I already have a working prototype using a 15mm stepper motor, ESP32-C3 with integrated OLED, and a DRV8833 motor driver. More details on this compact version will be shared later.
+  video:
+https://youtube.com/shorts/LEsJk2PyvBg?feature=share
+  <BR><BR>
+
+
+I already have a working prototype using a 15mm stepper motor, ESP32-C3 with integrated OLED, and a DRV8833 motor driver. More details on this compact version will be shared later.  <BR><BR> 
 <img src="https://github.com/gtmans/movingliquidsensor/blob/main/mini-version.png" width="300" align="left" />
 
-small video:
-https://youtube.com/shorts/LEsJk2PyvBg?feature=share
+<img src="https://github.com/gtmans/movingliquidsensor/blob/main/mini-version.photo.png" width="300" />
+
+
