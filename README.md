@@ -24,5 +24,7 @@ I already have a working prototype using a 15mm stepper motor, ESP32-C3 with int
 <img src="https://github.com/gtmans/movingliquidsensor/blob/main/mini-version.png" width="300" align="left" />
 
 <img src="https://github.com/gtmans/movingliquidsensor/blob/main/mini-version.photo.png" width="300" />
+<BR>Tinkercad: https://www.tinkercad.com/things/6feixQA668Z-movingliquid-parts-127-public
+<BR>ThingIverse: https://www.thingiverse.com/thing:7137600
 
 
