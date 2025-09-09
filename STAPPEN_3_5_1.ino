@@ -1,4 +1,4 @@
-//Projects\028-Liquid\STAPPEN_3_4.ino SSE refresh
+//with webinterface
 /* 
 moving liquidsensor gtmans 2025
 parts:
